@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -r https://github.com/2400016070/DadanJulianto_A.git"
+    "deploy": "gh-pages -d dist -r https://github.com/2400016070/2400016070_Dadan-Julianto_A.git"
   },
   "dependencies": {
     "lucide-react": "^0.555.0",
